@@ -1,4 +1,4 @@
-# neuroproject
+# neuroprak
 ## Multilayer Perceptrons
 ![Dataset](/images/1_1.jpg)
 
